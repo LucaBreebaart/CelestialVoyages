@@ -24,7 +24,9 @@ Follow these steps to clone and open the project in Android Studio:
 
 ## YouTube Tutorial
 
-For a basic front-end tutorial using Kotlin and Android Studio, check out the [YouTube tutorial](https://www.youtube.com/watch?v=oqTz91E9xjA).
+For a basic front-end tutorial using Kotlin and Android Studio, check out the video below:
+
+[![Basic Front End | Kotlin | Android Studio](https://img.youtube.com/vi/oqTz91E9xjA/0.jpg)](https://www.youtube.com/watch?v=oqTz91E9xjA)
 
 ---
 
